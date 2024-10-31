@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\QuanLyDiemHocSinh\\",
+  "WorkspaceRootPath": "D:\\-N-.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|b:\\quanlydiemhocsinh\\quanlydiemhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|d:\\-n-.net\\quanlydiemhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|solutionrelative:quanlydiemhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "B:\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh\\Form1.cs",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Form1.cs",
-              "ToolTip": "B:\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh\\Form1.cs [Design]",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs [Design]",
               "RelativeToolTip": "QuanLyDiemHocSinh\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T18:53:59.529Z",

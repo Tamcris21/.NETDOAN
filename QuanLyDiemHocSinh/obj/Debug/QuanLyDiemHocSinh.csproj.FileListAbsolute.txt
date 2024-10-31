@@ -1,0 +1,11 @@
+D:\-N-.NET\QuanLyDiemHocSinh\bin\Debug\Quanlydiemhocsinh.mdf
+D:\-N-.NET\QuanLyDiemHocSinh\bin\Debug\Quanlydiemhocsinh_log.ldf
+D:\-N-.NET\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.exe.config
+D:\-N-.NET\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.exe
+D:\-N-.NET\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.pdb
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csproj.AssemblyReference.cache
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.Properties.Resources.resources
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csproj.GenerateResource.cache
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csproj.CoreCompileInputs.cache
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.exe
+D:\-N-.NET\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.pdb
